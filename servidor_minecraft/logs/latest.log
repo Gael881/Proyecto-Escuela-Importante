@@ -3960,3 +3960,11 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/summ
 [02Feb2025 13:57:45.915] [Server thread/INFO] [Waila/]: Syncing config to Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6)
 [02Feb2025 13:57:52.090] [Worker-Main-16/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@1f95f52' to registry
 [02Feb2025 13:57:52.094] [Worker-Main-16/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:ocean_bottom
+[02Feb2025 13:59:54.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has reached the goal [Easy Opening]
+[02Feb2025 14:00:14.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Skeleton
+[02Feb2025 14:00:14.088] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[02Feb2025 14:04:04.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Stone Age]
+[02Feb2025 14:04:54.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Getting an Upgrade]
+[02Feb2025 14:07:46.873] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Goj0 lost connection: Timed out
+[02Feb2025 14:07:46.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 left the game
+[02Feb2025 14:07:46.966] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice

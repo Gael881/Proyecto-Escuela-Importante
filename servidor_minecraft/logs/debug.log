@@ -7637,3 +7637,40 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/summ
 [02Feb2025 13:58:25.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [02Feb2025 13:58:25.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [02Feb2025 13:58:26.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 13:59:54.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has reached the goal [Easy Opening]
+[02Feb2025 14:00:14.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Skeleton
+[02Feb2025 14:00:14.084] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:-27, y:61, z:-141, dim:minecraft:overworld]
+[02Feb2025 14:00:14.088] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[02Feb2025 14:00:18.009] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[02Feb2025 14:00:21.197] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 14:00:21.208] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Feb2025 14:00:30.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Feb2025 14:00:30.427] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Feb2025 14:01:02.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[02Feb2025 14:01:02.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:02.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:02.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[02Feb2025 14:01:02.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:02.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:08.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:09.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:09.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:09.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:10.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:11.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:16.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:16.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:17.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:20.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[02Feb2025 14:01:20.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:23.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:24.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:01:27.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:03:15.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 14:04:04.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Stone Age]
+[02Feb2025 14:04:54.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Getting an Upgrade]
+[02Feb2025 14:05:20.987] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 14:05:20.999] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Feb2025 14:07:46.873] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Goj0 lost connection: Timed out
+[02Feb2025 14:07:46.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 left the game
+[02Feb2025 14:07:46.966] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
