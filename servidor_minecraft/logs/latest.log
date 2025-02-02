@@ -3946,3 +3946,27 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/summ
 [02Feb2025 15:47:52.541] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
 [02Feb2025 15:47:54.517] [Worker-Main-6/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_bottom pattern registered.
 [02Feb2025 15:47:54.519] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:ocean_bottom
+[02Feb2025 15:52:35.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Anonymity -Wood-]
+[02Feb2025 15:54:27.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Best Friends Forever]
+[02Feb2025 15:56:01.570] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Goj0 lost connection: Disconnected
+[02Feb2025 15:56:01.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 left the game
+[02Feb2025 15:56:01.669] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02Feb2025 15:57:48.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[02Feb2025 15:57:49.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 15:57:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 15:57:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 15:57:49.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 15:57:50.869] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 15:57:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Feb2025 15:57:50.873] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 15:57:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Feb2025 15:57:50.875] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 15:57:50.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[02Feb2025 15:57:50.877] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[02Feb2025 15:57:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[02Feb2025 15:57:50.878] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[02Feb2025 15:57:50.939] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 15:57:50.948] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 15:57:50.949] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 15:57:50.950] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[02Feb2025 15:57:50.951] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved

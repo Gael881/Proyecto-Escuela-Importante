@@ -7613,3 +7613,46 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/summ
 [02Feb2025 15:47:53.998] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
 [02Feb2025 15:47:54.517] [Worker-Main-6/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_bottom pattern registered.
 [02Feb2025 15:47:54.519] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:ocean_bottom
+[02Feb2025 15:49:21.196] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 15:49:21.210] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Feb2025 15:49:46.795] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:49:48.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:49:52.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:49:56.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:50:01.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:50:14.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:52:35.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Anonymity -Wood-]
+[02Feb2025 15:54:13.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:54:21.123] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 15:54:21.138] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Feb2025 15:54:27.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Best Friends Forever]
+[02Feb2025 15:55:13.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[02Feb2025 15:56:01.570] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Goj0 lost connection: Disconnected
+[02Feb2025 15:56:01.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 left the game
+[02Feb2025 15:56:01.669] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02Feb2025 15:57:48.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[02Feb2025 15:57:49.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 15:57:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 15:57:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 15:57:49.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 15:57:50.869] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 15:57:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Feb2025 15:57:50.873] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 15:57:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Feb2025 15:57:50.875] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 15:57:50.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[02Feb2025 15:57:50.877] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[02Feb2025 15:57:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[02Feb2025 15:57:50.878] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[02Feb2025 15:57:50.879] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 15:57:50.891] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Feb2025 15:57:50.939] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 15:57:50.948] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 15:57:50.949] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 15:57:50.950] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[02Feb2025 15:57:50.951] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[02Feb2025 15:57:50.953] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[02Feb2025 15:57:50.953] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[02Feb2025 15:57:50.954] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file morevanillalib-server.toml changed, sending notifies
+[02Feb2025 15:57:50.955] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file morevanillalib-server.toml changed, sending notifies
+[02Feb2025 15:57:50.958] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies
