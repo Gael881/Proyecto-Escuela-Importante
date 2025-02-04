@@ -7922,3 +7922,468 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/summ
 [04Feb2025 20:36:04.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [04Feb2025 20:36:13.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [04Feb2025 20:36:14.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:37:51.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:37:51.462] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:37:51.462] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:37:51.463] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:37:51.464] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:37:51.464] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:37:51.464] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:37:51.465] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:37:51.465] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:37:53.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:37:54.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:37:56.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:37:57.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was slain by Guardian
+[04Feb2025 20:37:57.921] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:43, y:49, z:9, dim:minecraft:overworld]
+[04Feb2025 20:37:57.927] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:37:59.348] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:38:07.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:38:07.807] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:41, y:48, z:7, dim:minecraft:overworld]
+[04Feb2025 20:38:07.809] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:38:08.977] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:38:21.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:23.640] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:24.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:25.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:25.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:38:25.857] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:38:25.858] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:38:25.858] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:48, z:7, dim:minecraft:overworld]
+[04Feb2025 20:38:25.858] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:38:25.858] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:38:25.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:38:25.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:38:25.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:38:25.860] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:38:25.860] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:38:25.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:38:25.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:38:25.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:38:25.862] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:38:25.862] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:38:25.862] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:38:25.862] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:38:27.156] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:38:34.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:35.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:36.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:37.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:37.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:38:37.858] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:38:37.858] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:38:37.858] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:38:37.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:38:37.859] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:50, z:7, dim:minecraft:overworld]
+[04Feb2025 20:38:37.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:38:37.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:38:37.859] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:38:37.860] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:38:37.860] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:38:37.860] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:38:37.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:38:37.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:38:37.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:38:37.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:38:37.861] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:38:37.862] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:38:39.110] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:38:45.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:46.499] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:47.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Feb2025 20:38:47.666] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Feb2025 20:38:47.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:48.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:48.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:38:48.812] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:49, z:7, dim:minecraft:overworld]
+[04Feb2025 20:38:48.813] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:38:50.351] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:38:58.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:38:59.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:39:00.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:39:01.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:39:01.159] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:43, y:50, z:8, dim:minecraft:overworld]
+[04Feb2025 20:39:01.160] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:39:02.435] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:39:09.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:39:10.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:39:11.458] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:39:11.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:39:11.459] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:39:11.459] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:39:11.459] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:39:11.459] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:39:11.459] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:39:11.459] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:43, y:49, z:8, dim:minecraft:overworld]
+[04Feb2025 20:39:11.459] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:39:11.460] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:39:11.460] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:39:11.460] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:39:11.460] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:39:11.460] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:39:11.461] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:39:11.462] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:39:11.462] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:39:11.462] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:39:12.658] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:39:20.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:39:20.109] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:49, z:6, dim:minecraft:overworld]
+[04Feb2025 20:39:20.110] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:39:21.382] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:39:43.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:39:43.509] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:51, y:48, z:9, dim:minecraft:overworld]
+[04Feb2025 20:39:43.510] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:39:44.848] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:40:03.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Ninja turtle?]
+[04Feb2025 20:40:15.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:40:15.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 drowned whilst trying to escape Ancient Guardian
+[04Feb2025 20:40:15.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:40:15.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:40:15.608] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:40:15.608] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:40:15.608] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:34, y:47, z:7, dim:minecraft:overworld]
+[04Feb2025 20:40:15.608] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:40:15.608] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:40:15.608] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:40:15.609] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:40:15.609] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:40:15.609] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:40:15.609] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:40:15.609] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:40:15.610] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:40:15.610] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:40:15.610] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:40:17.028] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:40:53.055] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:40:53.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 drowned whilst trying to escape Ancient Guardian
+[04Feb2025 20:40:53.056] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:40:53.056] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:40:53.056] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:40:53.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:37, y:47, z:10, dim:minecraft:overworld]
+[04Feb2025 20:40:53.057] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:40:53.057] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:40:53.057] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:40:53.057] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:40:53.057] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:40:53.058] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:40:53.058] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:40:53.058] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:40:53.058] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:40:53.058] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:40:53.058] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:40:53.059] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:40:54.334] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:41:13.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:14.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:14.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:41:14.708] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:51, z:9, dim:minecraft:overworld]
+[04Feb2025 20:41:14.710] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:41:16.037] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:41:27.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:41:27.857] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:49, z:9, dim:minecraft:overworld]
+[04Feb2025 20:41:27.859] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:41:29.147] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:41:36.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:37.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:38.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:38.505] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:41:38.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:41:38.505] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:41:38.506] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:41, y:49, z:9, dim:minecraft:overworld]
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:41:38.506] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:41:38.507] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:41:38.507] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:41:38.507] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:41:38.507] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:41:38.507] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:41:38.507] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:41:38.508] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:41:39.713] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:41:47.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:48.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:49.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:50.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:41:50.556] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:42, y:51, z:9, dim:minecraft:overworld]
+[04Feb2025 20:41:50.557] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:41:51.752] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:41:58.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:41:59.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:00.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:00.405] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:42:00.405] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:42:00.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:42:00.406] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:42:00.406] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:42:00.406] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:42:00.407] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:42:00.407] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:42:00.407] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:42:00.407] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:42:00.407] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:42:00.408] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:41, y:51, z:9, dim:minecraft:overworld]
+[04Feb2025 20:42:00.408] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:42:00.408] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:42:00.408] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:42:00.408] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:42:00.409] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:42:00.410] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:42:01.504] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:42:07.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:08.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:09.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:09.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:42:09.858] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:41, y:50, z:9, dim:minecraft:overworld]
+[04Feb2025 20:42:09.859] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:42:11.101] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:42:37.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:38.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:38.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:39.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:45.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:42:47.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Ancient Guardian
+[04Feb2025 20:42:47.706] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:49, y:47, z:8, dim:minecraft:overworld]
+[04Feb2025 20:42:47.707] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:42:48.951] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:42:53.053] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:42:53.054] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:42:53.054] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:42:53.054] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:42:53.055] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:42:53.055] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:02.103] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:02.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:02.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:02.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:02.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:02.106] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:11.153] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:11.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:11.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:11.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:11.156] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:11.156] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:20.202] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:20.202] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:20.203] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:20.203] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:20.204] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:20.204] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:26.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was slain by Guardian
+[04Feb2025 20:43:26.007] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:45, y:40, z:4, dim:minecraft:overworld]
+[04Feb2025 20:43:26.008] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:43:27.227] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:43:29.255] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:29.255] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:29.256] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:29.256] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:29.257] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:29.257] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:38.305] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:38.305] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:38.306] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:38.306] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:38.306] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:38.307] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:47.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Feb2025 20:43:47.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Feb2025 20:43:47.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:47.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:47.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:47.639] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:47.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:47.640] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:56.403] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:56.403] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:56.404] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:56.404] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:43:56.404] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:43:56.405] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:01.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[04Feb2025 20:44:01.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 drowned whilst trying to escape Guardian
+[04Feb2025 20:44:01.407] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:47, y:41, z:2, dim:minecraft:overworld]
+[04Feb2025 20:44:01.408] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:44:02.968] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:44:05.455] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:05.455] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:05.456] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:05.456] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:05.457] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:05.457] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:14.502] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:14.503] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:14.503] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:14.503] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:14.504] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:14.504] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:23.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:23.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:23.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:23.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:23.554] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:23.554] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:32.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:32.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:32.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:32.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:32.604] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:32.604] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:35.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was slain by Guardian
+[04Feb2025 20:44:35.208] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:32, y:40, z:13, dim:minecraft:overworld]
+[04Feb2025 20:44:35.217] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:44:36.448] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:44:41.675] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:41.675] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:41.676] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:41.676] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:41.677] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:41.677] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:50.703] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:50.703] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:50.703] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:50.704] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:50.704] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:50.704] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:59.753] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:59.753] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:59.753] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:59.753] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:44:59.754] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:44:59.754] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:08.802] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:08.802] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:08.803] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:08.803] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:08.804] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:08.804] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:14.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 drowned
+[04Feb2025 20:45:14.605] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[04Feb2025 20:45:14.605] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[04Feb2025 20:45:14.606] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:44, y:53, z:7, dim:minecraft:overworld]
+[04Feb2025 20:45:14.606] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[04Feb2025 20:45:14.606] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[04Feb2025 20:45:14.606] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:45:14.606] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:45:14.606] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:45:14.606] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[04Feb2025 20:45:14.607] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04Feb2025 20:45:14.608] [Server thread/INFO] [tombstone/]: The player Goj0 could not be saved
+[04Feb2025 20:45:15.767] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
+[04Feb2025 20:45:17.856] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:17.857] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:17.857] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:17.857] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:17.858] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:17.858] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:26.904] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:26.904] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:26.905] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:26.906] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:26.907] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:26.908] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:35.952] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:35.953] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:35.953] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:35.953] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:35.954] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:35.954] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:45.003] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:45.003] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:45.003] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:45.003] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:45.004] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:45.004] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:54.055] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:54.055] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:54.056] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:54.056] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:45:54.056] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:45:54.056] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:03.102] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:03.102] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:03.103] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:03.103] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:03.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:03.104] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:12.153] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:12.153] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:12.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:12.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:12.154] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:12.155] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:21.204] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:21.204] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:21.204] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:21.204] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:21.205] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:21.205] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:30.252] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:30.252] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:30.253] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:30.253] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:30.254] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:30.254] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:39.303] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:39.303] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:39.303] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:39.304] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:39.304] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:39.304] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:48.353] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:48.353] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:48.354] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:48.354] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:48.355] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:48.355] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:49.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Hard work]
+[04Feb2025 20:46:57.403] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:57.403] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:57.403] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:57.403] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:46:57.404] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:46:57.404] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:06.452] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:06.453] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:06.453] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:06.454] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:06.455] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:06.455] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:15.505] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:15.505] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:15.506] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:15.506] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:15.507] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:15.507] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:24.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:24.552] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:24.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:24.553] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:24.554] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:24.554] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:33.602] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:33.602] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:33.602] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:33.602] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:33.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:33.603] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:42.652] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:42.653] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:42.653] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:42.653] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:42.654] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.maxHealth'
+[04Feb2025 20:47:42.654] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'generic.movementSpeed'
+[04Feb2025 20:47:42.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was slain by Guardian
+[04Feb2025 20:47:42.714] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:46, y:41, z:13, dim:minecraft:overworld]
+[04Feb2025 20:47:42.716] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[04Feb2025 20:47:43.959] [Server thread/DEBUG] [twilightforest/]: Player Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) respawned and received items held in storage
