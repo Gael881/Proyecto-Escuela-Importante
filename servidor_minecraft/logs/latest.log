@@ -3972,3 +3972,13 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/summ
 [04Feb2025 20:26:49.355] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Romano2000 lost connection: Timed out
 [04Feb2025 20:26:49.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Romano2000 left the game
 [04Feb2025 20:26:49.413] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[04Feb2025 20:30:32.482] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42db09e0
+[04Feb2025 20:30:32.500] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Goj0[/127.197.241.133:36701] logged in with entity id 1903 at (8.699999988079071, 45.0, -177.69999998807907)
+[04Feb2025 20:30:32.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 joined the game
+[04Feb2025 20:30:32.543] [Server thread/INFO] [Waila/]: Syncing config to Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6)
+[04Feb2025 20:31:52.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Easter Food]
+[04Feb2025 20:32:25.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Knowledge raises the soul]
+[04Feb2025 20:34:15.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Acquire Hardware]
+[04Feb2025 20:34:33.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Isn't It Iron Pick]
+[04Feb2025 20:34:42.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Suit Up]
+[04Feb2025 20:35:54.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Proud Soul]
