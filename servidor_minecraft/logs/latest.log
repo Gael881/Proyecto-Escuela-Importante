@@ -1,0 +1,185 @@
+[17:42:31] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[17:42:31] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[17:42:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:42:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[17:42:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Geyser-Spigot (2.11.1-SNAPSHOT), ViaBackwards (5.11.0), ViaVersion (5.11.0), floodgate (2.2.5-SNAPSHOT (b138-fc99cfc))
+[17:42:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:42:38] [ServerMain/INFO]: Loaded 1515 recipes
+[17:42:38] [ServerMain/INFO]: Loaded 1617 advancements
+[17:42:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[17:42:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 377.7ms
+[17:42:38] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:42:38] [Server thread/INFO]: Loading properties
+[17:42:38] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[17:42:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:42:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:42:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:42:40] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:42:40] [Server thread/INFO]: Default game type: SURVIVAL
+[17:42:40] [Server thread/INFO]: Generating keypair
+[17:42:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:42:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:42:40] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[17:42:41] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b138-fc99cfc)
+[17:42:42] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[17:42:42] [Server thread/INFO]: [floodgate] Took 557ms to boot Floodgate
+[17:42:42] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[17:42:42] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[17:42:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:42:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:42:43] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.1-SNAPSHOT
+[17:42:43] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:42:43] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:42:43] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[17:42:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:42:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:42:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:42:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:42:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:42:43] [Server thread/INFO]: Preparing level "world"
+[17:42:43] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[17:42:43] [Server thread/INFO]: Preparing spawn area: 100%
+[17:42:43] [Server thread/INFO]: Prepared spawn area in 3 ms
+[17:42:43] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[17:42:43] [Server thread/INFO]: Preparing spawn area: 100%
+[17:42:43] [Server thread/INFO]: Prepared spawn area in 2 ms
+[17:42:43] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[17:42:43] [Server thread/INFO]: Prepared spawn area in 1 ms
+[17:42:43] [Server thread/INFO]: Done preparing level "world" (0.480s)
+[17:42:43] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b138-fc99cfc)
+[17:42:44] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[17:42:44] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.1-26.1.2 (775)
+[17:42:44] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.1-SNAPSHOT
+[17:42:45] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[17:42:45] [Server thread/INFO]: [spark] Starting background profiler...
+[17:42:46] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:42:46] [Server thread/INFO]: [Geyser-Spigot] 
+[17:42:46] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.1-b1210 (git-master-6e70ba2)
+[17:42:46] [Server thread/INFO]: [Geyser-Spigot] 
+[17:42:46] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:42:47] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[17:42:47] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[17:42:47] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[17:42:49] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[17:42:50] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 52685
+[17:42:50] [Server thread/INFO]: [Geyser-Spigot] Done (4.126s)! Run /geyser help for help!
+[17:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:42:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:42:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:42:50] [Server thread/INFO]: Running delayed init tasks
+[17:42:50] [Server thread/INFO]: Done (19.697s)! For help, type "help"
+[17:42:50] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:42:50] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 release(s) and 14 build(s) behind!
+[17:42:50] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[17:43:13] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username AguitaFrescita (2168)
+[17:43:13] [localSession-7-2/INFO]: [Geyser-Spigot] AguitaFrescita (logged in as: AguitaFrescita) has connected to the Java server
+[17:43:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .AguitaFrescita joined (UUID: 00000000-0000-0000-0009-01f33900d155)
+[17:43:15] [Server thread/INFO]: .AguitaFrescita joined the game
+[17:43:15] [Server thread/INFO]: .AguitaFrescita[/127.44.0.40:0] logged in with entity id 35 at ([minecraft:overworld]59.30001001192093, 68.42, -3377.8386)
+[17:43:49] [User Authenticator #0/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[17:43:54] [Server thread/INFO]: Goj0 joined the game
+[17:43:54] [Server thread/INFO]: Goj0[/127.115.98.235:39847] logged in with entity id 370 at ([minecraft:overworld]47.55009361495838, 69.0, -3384.0594242856464)
+[17:44:06] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username ZirixW7 (2168)
+[17:44:06] [localSession-7-3/INFO]: [Geyser-Spigot] ZirixW7 (logged in as: ZirixW7) has connected to the Java server
+[17:44:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ZirixW7 joined (UUID: 00000000-0000-0000-0009-01faacd5129a)
+[17:44:06] [Server thread/INFO]: .ZirixW7 joined the game
+[17:44:06] [Server thread/INFO]: .ZirixW7[/127.185.96.214:0] logged in with entity id 416 at ([minecraft:overworld]104.72333, 69.0, -3335.2786)
+[17:44:11] [User Authenticator #1/INFO]: UUID of player lob0t is 57c1965c-9fdd-32e4-90e3-af13364b1132
+[17:44:11] [Server thread/INFO]: lob0t joined the game
+[17:44:11] [Server thread/INFO]: lob0t[/127.7.11.48:42335] logged in with entity id 422 at ([minecraft:overworld]45.917915287078124, 73.0, -3374.8960310519624)
+[17:46:44] [Server thread/WARN]: .ZirixW7 moved wrongly!
+[17:50:01] [Server thread/INFO]: .ZirixW7 has made the advancement [What a Deal!]
+[17:52:51] [Server thread/INFO]: Goj0 issued server command: /tp .AguitaFrescita
+[17:52:51] [Server thread/INFO]: [Goj0: Teleported Goj0 to .AguitaFrescita]
+[17:54:51] [Server thread/INFO]: Goj0 issued server command: /tp .AguitaFrescita
+[17:54:51] [Server thread/INFO]: [Goj0: Teleported Goj0 to .AguitaFrescita]
+[17:55:27] [Server thread/WARN]: .AguitaFrescita moved wrongly!
+[17:55:27] [Server thread/WARN]: .AguitaFrescita moved wrongly!
+[18:01:05] [Server thread/INFO]: lob0t lost connection: Timed out
+[18:01:05] [Server thread/INFO]: lob0t left the game
+[18:01:05] [Server thread/INFO]: Goj0 lost connection: Timed out
+[18:01:05] [Server thread/INFO]: Goj0 left the game
+[18:01:08] [User Authenticator #2/INFO]: UUID of player lob0t is 57c1965c-9fdd-32e4-90e3-af13364b1132
+[18:01:08] [Server thread/INFO]: lob0t joined the game
+[18:01:08] [Server thread/INFO]: lob0t[/127.7.11.48:38805] logged in with entity id 4388 at ([minecraft:overworld]50.14184794603373, 68.7531999805212, -3315.2701336061464)
+[18:01:12] [User Authenticator #3/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[18:01:13] [Server thread/INFO]: Goj0 joined the game
+[18:01:13] [Server thread/INFO]: Goj0[/127.115.98.235:60893] logged in with entity id 4445 at ([minecraft:overworld]48.059572347658, 69.0, -3387.0870306794127)
+[18:05:01] [Server thread/INFO]: .ZirixW7 has made the advancement [We Need to Go Deeper]
+[18:09:02] [Server thread/INFO]: lob0t lost connection: Disconnected
+[18:09:02] [Server thread/INFO]: lob0t left the game
+[18:09:27] [User Authenticator #4/INFO]: UUID of player lob0t is 57c1965c-9fdd-32e4-90e3-af13364b1132
+[18:09:27] [Server thread/INFO]: lob0t joined the game
+[18:09:27] [Server thread/INFO]: lob0t[/127.7.11.48:47283] logged in with entity id 6160 at ([minecraft:overworld]45.63146329883262, 73.0, -3379.0704760243025)
+[18:10:13] [Server thread/INFO]: lob0t has made the advancement [Who Needs Rockets?]
+[18:11:12] [Server thread/INFO]: lob0t lost connection: Disconnected
+[18:11:12] [Server thread/INFO]: lob0t left the game
+[18:11:24] [Server thread/INFO]: Goj0 issued server command: /tp .AguitaFrescita
+[18:11:24] [Server thread/INFO]: [Goj0: Teleported Goj0 to .AguitaFrescita]
+[18:11:52] [User Authenticator #5/INFO]: UUID of player lob0t is 57c1965c-9fdd-32e4-90e3-af13364b1132
+[18:11:52] [Server thread/INFO]: lob0t joined the game
+[18:11:52] [Server thread/INFO]: lob0t[/127.7.11.48:47379] logged in with entity id 6540 at ([minecraft:overworld]43.69999998807907, 54.0, -3383.699999988079)
+[18:11:58] [Server thread/INFO]: Goj0 issued server command: /tp lob0t Goj0
+[18:11:58] [Server thread/INFO]: [Goj0: Teleported lob0t to Goj0]
+[18:16:39] [Async Chat Thread - #0/INFO]: [Not Secure] <.ZirixW7> guevo pa to el mundo
+[18:16:47] [Async Chat Thread - #0/INFO]: [Not Secure] <.AguitaFrescita> Pa ti
+[18:17:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> pata
+[18:17:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> donde estas
+[18:17:32] [Async Chat Thread - #0/INFO]: [Not Secure] <lob0t> no es tu peo
+[18:19:24] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> loco
+[18:19:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> mis bloques
+[18:19:31] [Async Chat Thread - #2/INFO]: [Not Secure] <lob0t> solo dejenme en paz
+[18:19:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> what is your problem
+[18:19:36] [Async Chat Thread - #2/INFO]: [Not Secure] <lob0t> porfavor
+[18:23:35] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> dejen
+[18:23:42] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> yo no les hice nd
+[18:23:54] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> solo qdense aya
+[18:23:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> loco que se vaya pata modo emo
+[18:24:22] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> no modo emo l
+[18:24:29] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> lc*
+[18:24:37] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> siempre es lo mismo con ustedes
+[18:24:56] [Async Chat Thread - #4/INFO]: [Not Secure] <lob0t> yo intento tener una sana convivencia y ustedes siempre me joden
+[18:25:05] [Async Chat Thread - #5/INFO]: [Not Secure] <lob0t> siempre es asi
+[18:25:28] [Async Chat Thread - #5/INFO]: [Not Secure] <lob0t> y llega un punto q no aguanto mas
+[18:25:29] [Server thread/INFO]: Goj0 issued server command: /tp lob0t
+[18:25:29] [Server thread/INFO]: [Goj0: Teleported Goj0 to lob0t]
+[18:25:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Goj0> loco
+[18:25:46] [Async Chat Thread - #5/INFO]: [Not Secure] <Goj0> dime que te hicimos
+[18:26:04] [Async Chat Thread - #5/INFO]: [Not Secure] <lob0t> dejame hacer mi casa y ya
+[18:26:40] [Server thread/INFO]: Goj0 issued server command: /tp lob0t
+[18:26:40] [Server thread/INFO]: [Goj0: Teleported Goj0 to lob0t]
+[18:27:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> un yate de regalo
+[18:27:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> estas gorda
+[18:27:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> tienes que rebajar
+[18:27:49] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> asi no funciona
+[18:27:53] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> tiene que ser el mio
+[18:29:05] [Server thread/INFO]: Goj0 issued server command: /tp lob0t
+[18:29:05] [Server thread/INFO]: [Goj0: Teleported Goj0 to lob0t]
+[18:29:42] [Server thread/INFO]: .ZirixW7 was slain by Goj0
+[18:31:40] [Server thread/INFO]: Goj0 issued server command: /tp lob0t
+[18:31:40] [Server thread/INFO]: [Goj0: Teleported Goj0 to lob0t]
+[18:31:46] [Server thread/WARN]: .ZirixW7 moved wrongly!
+[18:31:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> me gusta nuestra nueva base
+[18:33:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> se ve horriblwe
+[18:33:04] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> que haces
+[18:33:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> cocina la piedra
+[18:33:15] [Async Chat Thread - #10/INFO]: [Not Secure] <lob0t> deja la montaña
+[18:34:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Goj0> vas a dejar el techo asi de bajo?
+[18:44:55] [Server thread/WARN]: .ZirixW7 moved wrongly!
+[18:52:09] [Server thread/INFO]: Goj0 issued server command: /tp lob0t
+[18:52:09] [Server thread/INFO]: [Goj0: Teleported Goj0 to lob0t]
+[18:52:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> donde esta la bae
+[18:52:24] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> tbase
+[18:52:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> porque lo quitas
+[18:52:57] [Async Chat Thread - #14/INFO]: [Not Secure] <lob0t> shhhh
+[18:53:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> juego luego
+[18:53:03] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[18:53:03] [Server thread/INFO]: Goj0 left the game
+[18:53:32] [Server thread/WARN]: .AguitaFrescita moved wrongly!
+[19:01:44] [Server thread/WARN]: .ZirixW7 moved wrongly!
+[19:04:10] [Server thread/WARN]: .AguitaFrescita moved wrongly!
