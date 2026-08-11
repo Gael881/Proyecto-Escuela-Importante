@@ -183,3 +183,4 @@
 [18:53:32] [Server thread/WARN]: .AguitaFrescita moved wrongly!
 [19:01:44] [Server thread/WARN]: .ZirixW7 moved wrongly!
 [19:04:10] [Server thread/WARN]: .AguitaFrescita moved wrongly!
+[19:10:27] [Server thread/INFO]: Villager Villager['Fletcher'/57, uuid='84eaa83e-7094-47c9-96a8-cd608108c0fa', l='ServerLevel[world]', x=75.31, y=68.19, z=-3270.97, cpos=[4, -205], tl=104614, v=true] died, message: 'Fletcher was slain by .ZirixW7'
